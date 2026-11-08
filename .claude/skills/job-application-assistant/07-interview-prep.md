@@ -39,6 +39,34 @@ Keep answers to 1-2 minutes. Be specific. End with what you learned or would do 
 
 <!-- Add more STAR examples as needed. Aim for 4-6 covering different competencies. -->
 
+## STAR Candidates (Complete Manually)
+
+These are prompts based on the CV, not completed examples. Confirm the situation, individual contribution and results before using them.
+
+### Document extraction with Azure AI
+**Source:** CV, Docunecta.
+**What happened:** Integrated Azure AI services for OCR and extracting invoice and delivery-note information.
+**Why it matters:** AI integration and solving a business problem.
+**S/T/A/R stub:** Situation: pending. Task: pending. Action: pending. Result: pending.
+
+### Document search with RAG
+**Source:** CV, Docunecta.
+**What happened:** Developed document search using RAG, embeddings, vector search, RRF, reranking and LLMs.
+**Why it matters:** Search architecture and applied AI.
+**S/T/A/R stub:** Situation: pending. Task: pending. Action: pending. Result: pending.
+
+### Multi-company web platform
+**Source:** CV, Docunecta.
+**What happened:** Developed and evolved a multi-company web platform using PHP, CodeIgniter 4, JavaScript and MariaDB.
+**Why it matters:** Full-stack delivery and maintaining business software.
+**S/T/A/R stub:** Situation: pending. Task: pending. Action: pending. Result: pending.
+
+### Python microservices and integrations
+**Source:** CV, Docunecta.
+**What happened:** Developed Python/FastAPI microservices, REST APIs, automated processes and business integrations.
+**Why it matters:** Backend development and integration.
+**S/T/A/R stub:** Situation: pending. Task: pending. Action: pending. Result: pending.
+
 ## Common Tough Questions
 
 ### "Why did you leave [previous company]?"

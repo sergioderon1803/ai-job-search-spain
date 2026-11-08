@@ -4,70 +4,60 @@ framework_version: 1.1.1
 
 # Candidate Profile
 
-<!-- SETUP: This file is populated by running /setup -->
-<!-- After running /setup, all sections will be filled with your actual information -->
+Source: Sergio's CV in `documents/cv/`. Preferences and unspecified details remain to be confirmed.
 
 ## Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_ADDRESS]
-- **Phone:** [YOUR_PHONE]
-- **Email:** [YOUR_EMAIL]
-- **LinkedIn:** [YOUR_LINKEDIN_URL]
-- **GitHub:** [YOUR_GITHUB_URL]
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **Constraints:** [YOUR_COMMUTE_OR_LOCATION_CONSTRAINTS]
+- **Name:** Sergio Álvarez de Ron Galea
+- **Location:** Coslada, Madrid, Spain
+- **Phone:** +34 633 02 38 64
+- **Email:** sergioderon1803@gmail.com
+- **LinkedIn:** https://linkedin.com/in/sergio-alvarez-de-ron-galea/
+- **GitHub:** Not provided
+- **Status:** Software developer at Docunecta, current according to CV
+- **Constraints:** Not provided
+- **Driving licence:** Obtained in 2019
 
 ### Languages
-<!-- Every language you can work in professionally, with your honest level. Used by the
-Language Gate in 04-job-evaluation.md and by job-scraper/search-queries.md's query-language
-generation. Omit any language you don't actually work in - an undeclared language is treated as
-a hard no, not a gap to smooth over. -->
 
 | Language | Level | Notes |
 |----------|-------|-------|
-| [LANGUAGE] | [LEVEL, e.g. "Native" / "C2" / "B1/B2 (conversational)"] | [optional] |
+| Spanish | Native | |
+| English | C1 | Escuela Oficial de Idiomas, 2020–2021 |
 
 ## Education
 
-| Degree | Period | Institution | Key Topics |
-|--------|--------|-------------|------------|
-| [DEGREE] | [YEARS] | [INSTITUTION] | [TOPICS] |
+| Degree | Period | Institution |
+|--------|--------|-------------|
+| Técnico Superior en Desarrollo de Aplicaciones Web | 2023–2025 | IES Luis Braille |
+| Grado en Magisterio de Educación Primaria | 2016–2020 | Universidad de Alcalá de Henares |
 
 ## Professional Experience
 
-### [JOB_TITLE] - [COMPANY] ([START] - [END])
-[LOCATION]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_1]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_2]
-- [RESPONSIBILITY_OR_ACHIEVEMENT_3]
+### Client collaboration and product development
+- Meets with clients and stakeholders to understand their needs and define specific software developments and adaptations. Source: candidate, confirmed in conversation; employer and dates not specified.
 
-<!-- Add more roles as needed -->
+### Desarrollador de software - Docunecta (July 2025–present, according to CV)
+- Develops and evolves a multi-company web platform using PHP, CodeIgniter 4, JavaScript and MariaDB.
+- Integrates Azure OpenAI, Document Intelligence and Content Understanding for OCR and invoice and delivery-note extraction.
+- Develops document search using RAG, embeddings, vector search, RRF, reranking and LLMs.
+- Builds Python/FastAPI microservices, REST APIs, automated processes and business integrations.
+- Optimizes databases and services on Ubuntu, Nginx and PHP-FPM.
+
+### Desarrollador web - Artifact Consulting (March 2025–June 2025)
+- Developed with Java, Spring Boot and JavaScript; worked with SQL and graph databases and LLM integration.
+
+### Profesor de apoyo escolar - Escuela Best (2022–2024)
+- Taught English and supported primary and secondary school pupils.
 
 ## Independent Projects
-<!-- Projects outside of employment: freelance, open source, personal -->
-- **[PROJECT_NAME]**: [DESCRIPTION]
+Not provided.
 
 ## Technical Skills
+- **Languages:** PHP, Python, JavaScript, Java, SQL, HTML/CSS.
+- **Frameworks and APIs:** CodeIgniter 4, FastAPI, Spring Boot, Laravel, REST.
+- **AI and documents:** Azure OpenAI, Azure AI, OCR, LLMs, RAG, embeddings, reranking.
+- **Data and infrastructure:** MariaDB, graph databases, Linux, Ubuntu, Nginx, PHP-FPM.
+- **Other skills listed in CV:** teaching and communication, teamwork, adaptability and learning.
 
-### Programming & ML
-- **[LANGUAGE]** ([PROFICIENCY]): [FRAMEWORKS_AND_LIBRARIES]
-- [OTHER_SKILLS]
-
-### Domain Expertise
-- [DOMAIN_1]
-- [DOMAIN_2]
-
-### Software & Tools
-- [TOOL_LIST]
-
-## Publications
-<!-- List peer-reviewed publications, if any -->
-1. [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL]. [DOI_LINK]
-
-## Awards
-- [AWARD] - [EVENT] ([YEAR])
-
-## References
-- [NAME], [TITLE], [COMPANY] ([EMAIL], [PHONE])
-
-More references available upon request.
+## Publications, Awards and References
+Not provided.

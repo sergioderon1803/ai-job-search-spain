@@ -1,10 +1,10 @@
-# Job Application Assistant for [YOUR_NAME]
+# Job Application Assistant for Sergio ?lvarez de Ron Galea
 
 <!-- SETUP: This file is populated by running /setup -->
 <!-- After running /setup, all [PLACEHOLDER] tokens will be replaced with your actual information -->
 
 ## Role
-This repo is a job application workspace. Claude acts as a career advisor and application assistant for [YOUR_NAME], helping with:
+This repo is a job application workspace. Claude acts as a career advisor and application assistant for Sergio ?lvarez de Ron Galea, helping with:
 1. **Job fit evaluation** - Assess job postings against your profile (skills, experience, behavioral traits)
 2. **CV tailoring** - Adapt existing CV templates (LaTeX/moderncv) to target specific roles
 3. **Cover letter writing** - Draft targeted cover letters using existing templates (LaTeX)
@@ -13,79 +13,31 @@ This repo is a job application workspace. Claude acts as a career advisor and ap
 
 ## Candidate Profile
 
-<!-- This section is auto-populated by /setup. You can also fill it in manually. -->
+The detailed source of truth is `.claude/skills/job-application-assistant/01-candidate-profile.md`, populated from Sergio's CV. Confirm job-search preferences and unspecified details before assuming them.
 
-### Identity
-- **Name:** [YOUR_NAME]
-- **Location:** [YOUR_CITY], [YOUR_COUNTRY] ([YOUR_COMMUTE_CONSTRAINTS])
-- **Languages:**
-  | Language | Level |
-  |----------|-------|
-  | [LANGUAGE] | [LEVEL] |
-  <!-- Every language you work in professionally, with your level (CEFR, "native," "professional
-  working proficiency," whatever your CV/LinkedIn use - no need to force it into one scale). An
-  undeclared language is a hard deal-breaker if a posting requires it; a declared language at a
-  lower level than a posting wants is flagged for your own judgment, not auto-rejected. See
-  04-job-evaluation.md's Language Gate. -->
-- **CV language:** [YOUR_CV_LANGUAGE] <!-- English unless your market expects otherwise; /setup asks -->
-
-- **Status:** [YOUR_EMPLOYMENT_STATUS]
-- **LinkedIn headline:** "[YOUR_LINKEDIN_HEADLINE]"
+### Identity and languages
+- **Name:** Sergio ?lvarez de Ron Galea
+- **Location:** Coslada, Madrid, Spain; commute and remote preferences not yet specified.
+- **Languages:** Spanish (native), English (C1, Escuela Oficial de Idiomas).
+- **Status:** Software developer at Docunecta, current according to CV.
+- **CV language:** Not specified.
 
 ### Education
-<!-- List your degrees, most recent first -->
-- **[DEGREE_LEVEL] in [FIELD]** ([YEAR_START]-[YEAR_END]) - [INSTITUTION]
-  - Thesis: "[THESIS_TITLE]"
-  - Topics: [KEY_TOPICS]
+- T?cnico Superior en Desarrollo de Aplicaciones Web, IES Luis Braille, 2023?2025.
+- Grado en Magisterio de Educaci?n Primaria, Universidad de Alcal? de Henares, 2016?2020.
 
 ### Professional Experience
-<!-- List your roles, most recent first -->
-- **[JOB_TITLE]** ([START_DATE] - [END_DATE]) - **[COMPANY]** ([LOCATION])
-  - [KEY_RESPONSIBILITY_1]
-  - [KEY_RESPONSIBILITY_2]
-  - [KEY_ACHIEVEMENT]
+- Client and stakeholder meetings to understand needs and define specific software developments and adaptations; employer and dates not specified by the candidate.
+- **Desarrollador de software**, Docunecta, July 2025?present according to CV: multi-company web platform, Azure AI document extraction, RAG document search, Python/FastAPI microservices and enterprise integrations.
+- **Desarrollador web**, Artifact Consulting, March?June 2025: Java, Spring Boot, JavaScript, SQL and graph databases, and LLM integration.
+- **Profesor de apoyo escolar**, Escuela Best, 2022?2024: English teaching and support for primary and secondary pupils.
 
 ### Technical Skills
-- **Primary:** [YOUR_PRIMARY_SKILLS]
-- **Secondary:** [YOUR_SECONDARY_SKILLS]
-- **Domain:** [YOUR_DOMAIN_EXPERTISE]
-- **Software:** [YOUR_TOOLS_AND_SOFTWARE]
+- PHP, Python, JavaScript, Java, SQL, HTML/CSS; CodeIgniter 4, FastAPI, Spring Boot, Laravel and REST.
+- Azure OpenAI, Azure AI, OCR, LLMs, RAG, embeddings, reranking; MariaDB, graph databases, Linux, Nginx and PHP-FPM.
 
-### Certifications
-<!-- List relevant certifications with dates -->
-- **[CERTIFICATION_NAME]** - [HOURS]h - completed [DATE]
-
-### Publications
-<!-- List peer-reviewed publications, if any -->
-- [AUTHOR_LIST] ([YEAR]). [TITLE]. [JOURNAL].
-
-### Awards
-<!-- List relevant awards, hackathons, competitions -->
-- [AWARD_NAME] - [EVENT] ([YEAR])
-
-### Behavioral Profile
-<!-- Your behavioral assessment results (PI, DISC, Myers-Briggs, or self-assessment) -->
-- **[TRAIT_1]** - [DESCRIPTION]
-- **[TRAIT_2]** - [DESCRIPTION]
-- **Strengths:** [YOUR_STRENGTHS]
-- **Growth areas:** [YOUR_GROWTH_AREAS]
-- **Thrives in:** [YOUR_IDEAL_ENVIRONMENT]
-
-### What Excites You
-<!-- What motivates you professionally -->
-- [PASSION_1]
-- [PASSION_2]
-
-### Target Sectors
-<!-- Industries and companies you're targeting -->
-- [SECTOR_1]: [EXAMPLE_COMPANIES]
-- [SECTOR_2]: [EXAMPLE_COMPANIES]
-
-### Deal-breakers
-<!-- Hard constraints on job search. Language requirements are handled separately and
-automatically from your Languages table above - don't duplicate them here. -->
-- [DEALBREAKER_1]
-- [DEALBREAKER_2]
+### Preferences and other details
+Target roles, sectors, salary expectations, work arrangements, deal-breakers and behavioral assessment: not yet provided. Do not infer these from the CV.
 
 ## Repo Structure
 - `cv/` - LaTeX CV variants (moderncv template, banking style)
